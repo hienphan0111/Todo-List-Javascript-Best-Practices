@@ -26,8 +26,8 @@ To get a local copy up and running follow these simple example steps.
 run the following commands in your terminal
 
 - git clone https://github.com/hienphan0111
-/Javascript-Best-Practices-TO-DO-list-app.git
-- cd Javascript-Best-Practices-TO-DO-list-app
+/Todo-list-Javascript-Best-Practices.git
+- cd Todo-list-Javascript-Best-Practices
 - git checkout main
 
 ## Author
@@ -43,7 +43,7 @@ run the following commands in your terminal
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/hienphan0111
-/Javascript-Best-Practices-TO-DO-list-app/issues).
+/Todo-list-Javascript-Best-Practices/issues).
 
 ## Acknowledgments
 
